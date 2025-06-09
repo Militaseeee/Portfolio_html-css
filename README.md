@@ -42,12 +42,11 @@ Below you will see a graph that explains how each of the folders consists.
 │
 └── README.md           # Project documentation
 
-## 🌐 **assets**
+## 🖼️ **assets**
 
 In this folder, you will find two subfolders where you will find the fonts used in the project and in the other all the images I included.
 
-## 🌐 **src**
+## 📁 **src**
 
 In the src you will find two folders where you will have two subfolders, one named css where you will find all the style sheets that were placed in the portfolio.
 
-🔗 Conoce más sobre el programa: [https://riwi.io/curso](https://riwi.io/curso)
