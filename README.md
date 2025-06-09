@@ -4,7 +4,7 @@
 
 This portfolio was made by **Camila Acosta Velasquez** identified **1001456477**, belonging to the **Gosling Clan**. This repository aims to showcase everything learned in this module about CSS and HTML.  
 
-Here you will find all the projects and challenges that I have developed throughout my learning with RIWI. If you have any questions or concerns, please write to my personal email **camilitaacosta2001@gmail.com**.
+Here you will find all the projects and challenges that I have developed throughout my learning with RIWI. If you have any questions or concerns, please write to my personal email *camilitaacosta2001@gmail.com*.
 
 ---
 
