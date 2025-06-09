@@ -10,26 +10,44 @@ Here you will find all the projects and challenges that I have developed through
 
 ## **📁 Content of my portfolio**
 
-- 📝 **Ejercicios prácticos de programación y lógica.**
-- 🔧 **Soluciones a problemas reales usando tecnología.**
-- 🚀 **Proyectos educativos y colaborativos.**
-- 📖 **Notas, documentación y buenas prácticas aprendidas en clase.**
+- 📝 **Home & about me.**
+- 🚀 **Projects.**
+- 📝 **Contact.**
 
 ---
 
-## **🎯 Objetivo del Repositorio**
+## **🎯 Portfolio Objective**
 
-Este repositorio tiene como propósito:
+This repository aims to:
 
-- Servir como registro del proceso de formación en RIWI.
-- Consolidar conocimientos a través de la práctica constante.
-- Compartir el avance y los logros obtenidos durante la formación.
-- Ayudar a otros estudiantes a encontrar ejemplos útiles para su aprendizaje.
+- Serve as a record of the training process in RIWI.
+- Consolidate knowledge through continuous practice.
+- Share the progress and achievements obtained during the training. 
+- Help other students find useful examples for their learning.
 
 ---
 
-## 🌐 **¿Qué es RIWI?**
+## 🌐 **How is the repository organized?**
 
-**RIWI** es una academia que entrena a sus estudiantes para convertirse en desarrolladores de software, usando una metodología intensiva y basada en la práctica. A través de retos reales, clases dinámicas y proyectos colaborativos, busca que cada persona desarrolle habilidades técnicas, lógicas y de trabajo en equipo.
+Below you will see a graph that explains how each of the folders consists.
+
+📦 Portfolio_html-css
+├── 📁 assets
+│   ├── 📁 fonts        # Fonts used in the project
+│   └── 📁 images       # Images used in the design
+│
+├── 📁 src
+│   ├── 📁 css          # Style sheets (CSS)
+│   └── 📁 html         # HTML files of the site
+│
+└── README.md           # Project documentation
+
+## 🌐 **assets**
+
+In this folder, you will find two subfolders where you will find the fonts used in the project and in the other all the images I included.
+
+## 🌐 **src**
+
+In the src you will find two folders where you will have two subfolders, one named css where you will find all the style sheets that were placed in the portfolio.
 
 🔗 Conoce más sobre el programa: [https://riwi.io/curso](https://riwi.io/curso)
