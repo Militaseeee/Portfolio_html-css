@@ -30,7 +30,7 @@ This repository aims to:
 ## 🌐 **How is the repository organized?**
 
 Below you will see a graph that explains how each of the folders consists.
-
+```
 📦 Portfolio_html-css
 ├── 📁 assets
 │   ├── 📁 fonts        # Fonts used in the project
@@ -41,6 +41,7 @@ Below you will see a graph that explains how each of the folders consists.
 │   └── 📁 html         # HTML files of the site
 │
 └── README.md           # Project documentation
+```
 
 ## 🖼️ **assets**
 
